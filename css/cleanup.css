@@ -6,7 +6,7 @@
   display: none;
 }
 
-#wall div#tag-3 {
+#wall div#tag-3 div[class="slick wicked"] {
   display: none;
 }
 
