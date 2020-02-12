@@ -9,3 +9,7 @@
 div#tag-3 div[class="slick wicked"] {
   display: none;
 }
+
+div .parent {
+  display: none;
+}
