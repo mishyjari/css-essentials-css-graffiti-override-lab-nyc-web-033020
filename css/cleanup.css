@@ -6,6 +6,6 @@
   display: none;
 }
 
-#wall div.slick#tag-3 {
+#wall div[id='slick wicked'] {
   display: none;
 }
