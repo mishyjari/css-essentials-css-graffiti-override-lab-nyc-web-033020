@@ -6,4 +6,6 @@
   display: none;
 }
 
-#wall div.slick#tag-3
+#wall div#tag-3 {
+  display: none;
+}
