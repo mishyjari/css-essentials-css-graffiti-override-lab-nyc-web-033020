@@ -6,7 +6,7 @@
   display: none;
 }
 
-div#wall .slick {
+div#wall > .slick {
   display: none;
 }
 
