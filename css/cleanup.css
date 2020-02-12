@@ -13,3 +13,5 @@ div#wall div#tag-3.slick {
 div .parent {
   display: none;
 }
+
+/* Why does this require 300 bytes??? */
