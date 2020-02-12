@@ -2,6 +2,8 @@
   display: none;
 }
 
-#wall div#tag-2, .slick#tag-3 {
+#wall div#tag-2 {
   display: none;
 }
+
+#wall .slick#tag-3
